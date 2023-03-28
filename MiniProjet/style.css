@@ -1,0 +1,51 @@
+
+h1{
+    color: black;
+    font-size: x-large;
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+p{
+    color: black;
+    font-size: 100%;
+    margin: auto;
+    text-align: center;
+}
+form{
+    /* width: ; */
+    font-size: large;
+    text-align: center;
+    border: 1px solid silver;
+    margin:  auto;
+    padding: 30px;
+
+}
+
+
+input[type=text]{
+    width: 48%;
+    height: 25px;/*regler la hauteur*/
+    padding: 3px;
+    border: 1px solid white;
+    border-radius: 7px;
+    margin-bottom: 20px;
+    background-color: #333333;
+    color: white;
+    font-weight: bold;/*mettre en gras*/
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: 14px;
+}
+input[type=submit]{
+    width: 50%;
+    padding: 5px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: normal;
+    border-radius: 50px; 
+
+}
+
